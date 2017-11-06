@@ -8,7 +8,7 @@ yarn-error.log*
 # ignore mac files
 .DS_store
 
-
+.temp
 
 # Runtime data
 pids
